@@ -17,5 +17,5 @@ s!faq
 ## 回應範例
 
 ```
-![回傳範例](/assets/images/1.png)
+![回傳範例](docs/faq/images/1.png)
 ```
