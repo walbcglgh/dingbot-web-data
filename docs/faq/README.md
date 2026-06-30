@@ -17,5 +17,5 @@ s!faq
 ## 回應範例
 
 ```
-images/1.png
+/assets/images/1.png
 ```
