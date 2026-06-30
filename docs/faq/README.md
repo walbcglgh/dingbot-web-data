@@ -5,7 +5,7 @@
 > 分類 ➠ s!help 類別
 
 ## 使用方法
-在任一有邀請Dingbot的地方輸入
+在任一有邀請Dingbot的伺服器文字頻道中輸入
 ```text
 s!faq
 ```
@@ -25,3 +25,4 @@ s!faq
 ## 注意事項
 
 - 若本指令無法解決您的問題，歡迎前往[官方伺服器](https://discord.gg/dingbot-zhi-yuan-zong-he-tao-lun-qun-746055685594284061)諮詢
+- 回應範例僅做為參考
