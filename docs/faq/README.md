@@ -21,3 +21,7 @@ s!faq
 ## 回應範例
 
 ![回傳範例](images/1.png)
+
+## 注意事項
+
+- 若本指令無法解決您的問題，歡迎前往[官方伺服器](https://discord.gg/dingbot-zhi-yuan-zong-he-tao-lun-qun-746055685594284061)諮詢
